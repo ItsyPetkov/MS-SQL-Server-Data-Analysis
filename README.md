@@ -64,3 +64,83 @@ List of business-related enquiries and their relevance:
 ## Key Insights & Strategic Action Recommendations
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
+
+### Question 1 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 2 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 3 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 4 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 5 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 6 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 7 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 8 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 9 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 10 Insights and recommendations
+
+**Key Metrics:** 
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
