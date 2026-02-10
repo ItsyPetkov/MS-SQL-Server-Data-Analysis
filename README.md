@@ -69,9 +69,25 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Total Revenue by Product & Category
+* Units Sold
+* Average Selling Price (ASP)
+* Revenue Contribution %
+* Top 10 Products & Categories by Revenue
+  
 **Key Insights:**
 
+* A small group of high-performing products typically drives a disproportionate share of total revenue.
+
+* Certain categories consistently outperform others in both revenue and volume, indicating strong customer preference.
+
+* Long-tail products contribute limited revenue while adding inventory and operational complexity.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Prioritise inventory investment in high-performing products and categories.
+* Rationalise or discontinue consistently underperforming Stock Keeping Units (SKU).
+* Focus promotional activity and shelf space on top revenue drivers.
 
 ### Question 2 Insights and recommendations
 
