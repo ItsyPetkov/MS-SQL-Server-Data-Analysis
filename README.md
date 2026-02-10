@@ -36,6 +36,10 @@ Next stages involve: 1) data reporting by producing a Bike Store Analytics Layer
 
 ## Analytical Focus & Key Business Questions
 
+This section presents a set of strategic business questions developed for key stakeholders across the fictional organisation, including 1) Executive Leadership; 2) Commercial & Sales Management; 3) Finance & Business Performance; and 4) Strategy & Business Intelligence. These questions reflect the core priorities of each group and are designed to uncover critical insights into commercial performance, operational efficiency, and growth opportunities. Collectively, they support data-driven decision-making across sales optimisation, customer value management, workforce productivity, pricing and promotional strategy, and geographic expansion, enabling leadership to align strategic objectives with measurable business outcomes.
+
+List of business-related enquiries and their relevance:
+
 ## Key Insights & Strategic Action Recommendations
 
-
+This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
