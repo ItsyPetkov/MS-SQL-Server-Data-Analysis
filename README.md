@@ -93,9 +93,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Monthly Revenue Trend
+* Year-over-Year Growth (%)
+* Seasonal Peak vs Off-Peak Sales Periods
+
 **Key Insights:**
 
+* Sales exhibit clear seasonal patterns, with predictable peak and trough periods.
+
+* Certain months consistently outperform others, indicating demand cycles.
+
+* Volatility in monthly revenue may reveal operational or promotional inefficiencies.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Align inventory procurement and workforce planning with seasonal demand.
+* Optimise promotional timing to amplify peak sales periods.
+* Improve forecasting models using historical seasonality patterns.
 
 ### Question 3 Insights and recommendations
 
