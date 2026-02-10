@@ -184,13 +184,31 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue by Brand
+* Units Sold by Brand
+* Average Selling Price by Brand (ASP)
+
 **Key Insights:**
 
+* Brand revenue concentration indicates reliance on a limited number of suppliers.
+
+* Some brands generate high volume but lower profitability.
+
+* ASP variation suggests pricing and positioning opportunities.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Strengthen partnerships with high-performing brands.
+* Renegotiate commercial terms with key suppliers.
+* Rebalance brand portfolio toward higher-margin suppliers.
 
 ### Question 7 Insights and recommendations
 
 **Key Metrics:** 
+
+* Revenue by Discount Band
+* Units Sold by Discount Band
+* Revenue Retention %
 
 **Key Insights:**
 
