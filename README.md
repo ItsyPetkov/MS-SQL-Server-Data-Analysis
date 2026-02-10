@@ -161,9 +161,24 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue by Sales Representative
+* Orders per Sales Representative
+* Revenue per Order
+* Top & Bottom Performers
+
 **Key Insights:**
 
+* Staff performance varies significantly across individuals and stores.
+
+* Top performers consistently generate higher order values and conversion rates.
+
+* Underperformance indicates training gaps or operational inefficiencies.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Introduce targeted training and coaching programmes.
+* Redesign incentive structures to reward high performance.
+* Implement workforce planning models based on productivity metrics.
 
 ### Question 6 Insights and recommendations
 
