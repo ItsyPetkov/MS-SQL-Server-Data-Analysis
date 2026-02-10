@@ -1,4 +1,4 @@
-# PortfolioProject - RDBMS SQL Exploration
+# Retail Business Intelligence & Executive Reporting Framework (MS SQL Server RDBMS Exploration) 
 
 This is an SQL Relational DataBase Management System project aiming to explore the complex relationships between multiple tables.
 
