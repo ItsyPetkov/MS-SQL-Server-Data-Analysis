@@ -228,10 +228,24 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue by Manager
+* Orders per Manager
+* Staff Productivity per Manager
+
 **Key Insights:**
+
+* Leadership effectiveness has a measurable impact on store performance.
+
+* Some managers consistently outperform peers across all Key Performance Indicators (KPI).
+
+* Variability highlights differences in leadership capability and execution.
 
 **Based on this analysis, I recommend the following actions:**
 
+* Implement leadership development and mentoring programmes.
+* Reward top-performing managers with succession opportunities.
+* Address capability gaps through targeted coaching.
+  
 ### Question 9 Insights and recommendations
 
 **Key Metrics:** 
