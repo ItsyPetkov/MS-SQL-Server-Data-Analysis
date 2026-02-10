@@ -138,10 +138,25 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Top 10 Customers by Lifetime Value
+* Average Spend per Customer
+* Purchase Frequency
+* Repeat Purchase Rate
+
 **Key Insights:**
+
+* A small group of customers generates a disproportionate share of total revenue.
+  
+* High-value customers exhibit repeat purchasing and higher basket sizes.
+  
+* Long-tail customers contribute limited lifetime value.
 
 **Based on this analysis, I recommend the following actions:**
 
+* Implement tiered loyalty and retention programs.
+* Personalise offers for high-value and growth-potential customers.
+* Shift marketing spend toward lifecycle-based engagement strategies.
+  
 ### Question 5 Insights and recommendations
 
 **Key Metrics:** 
