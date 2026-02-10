@@ -1,5 +1,9 @@
 # Retail Business Intelligence & Executive Reporting Framework (MS SQL Server RDBMS Exploration) 
 
+This portfolio project uses a relational retail database designed to replicate a real-world enterprise sales environment within a fictional bike retail business. The data captures transactional activity across customers, products, stores, staff, brands, and geographic regions, enabling comprehensive end-to-end analysis of commercial performance, customer lifetime value, workforce productivity, pricing effectiveness, and regional dynamics. A structured SQL Server reporting framework is developed to transform raw transactional data into executive-ready business intelligence through a series of optimised views, KPIs, and analytical layers. This project demonstrates how advanced SQL-based analytics can support strategic decision-making, uncover performance drivers, identify growth opportunities, and highlight operational inefficiencies, delivering actionable insights typically produced through enterprise BI platforms, but implemented entirely within Microsoft SQL Server.
+
+## Table of Contents
+
 This is an SQL Relational DataBase Management System project aiming to explore the complex relationships between multiple tables.
 
 Topics that are covered in this exploration include:
