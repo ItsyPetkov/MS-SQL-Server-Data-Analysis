@@ -4,13 +4,15 @@ This portfolio project uses a relational retail database designed to replicate a
 
 ## Table of Contents
 
-## Target Users:
+## Target Users: Executive Leadership, Commercial Management & Business Stakeholders
+
+This analysis is designed for senior business leaders, commercial decision-makers, and operational managers seeking to enhance retail performance through structured, data-driven insights. It delivers actionable intelligence across product strategy, customer value management, store and workforce productivity, brand performance, promotional effectiveness, and geographic expansion. 
 
 ## Understanding the Data
 
 The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
 
-## Data Analyssi Framework
+## Data Analysis Framework
 
 This is an SQL Relational DataBase Management System project aiming to explore the complex relationships between multiple tables.
 
