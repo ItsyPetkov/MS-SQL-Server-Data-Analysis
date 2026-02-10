@@ -212,7 +212,17 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Moderate discount levels often generate optimal revenue and volume balance.
+
+* Deep discounting significantly erodes revenue retention.
+
+* Zero or low discount levels may suppress demand.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Establish discount guardrails based on performance bands.
+* Prioritise mid-range discount strategies.
+* Monitor promotional ROI at product and category levels.
 
 ### Question 8 Insights and recommendations
 
