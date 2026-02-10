@@ -10,7 +10,13 @@ This analysis is designed for senior business leaders, commercial decision-maker
 
 ## Understanding the Data
 
-The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database. The database itself is comprised of nine csv files: 1) customers.csv; 2) staffs.csv; 3) orders.csv; 4) stores.csv; 5) order_items.csv; 6) categoreis.csv; 7) brand.csv; 8) products.csv; and 9) stocks.csv.
+
+The image below provides the reader with the interconnections of the relational database.
+
+<img width="742" height="602" alt="image" src="https://github.com/user-attachments/assets/8e39c19e-5c02-42cc-ac57-f57564f92977" />
+
+Data processing will be applied in Microsoft SQL Server. For more information, please read the Data Analysis Framework section below.
 
 ## Data Analysis Framework
 
