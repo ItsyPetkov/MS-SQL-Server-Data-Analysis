@@ -30,6 +30,10 @@ INTERMEDIATES: Subqueries, Various window functions including ROW_NUMBER(), RANK
 
 ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
 
+All of these topics have been explored in server_config.sql, basics.sql, intermediates.sql and advanced.sql.
+
+Next stages involve: 1) data reporting by producing a Bike Store Analytics Layer in MS SQL Server using STORED PROCEDURES, VIEWS, SCHEMAS and multiple QUERIES; and 2) data storytelling by delivering a comprehensive analysis presentation using MS PowerPoint. The output of both steps is available in the GitHub repository under 'SQL_Deployment_Script.sql' and 'Stakeholder report.pptx', respectively.
+
 ## Analytical Focus & Key Business Questions
 
 ## Key Insights & Strategic Action Recommendations
