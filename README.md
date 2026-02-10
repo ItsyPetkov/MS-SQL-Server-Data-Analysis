@@ -115,9 +115,24 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue by Store
+* Orders by Store
+* Average Order Value (AOV)
+* Revenue per Staff Member
+
 **Key Insights:**
 
+* Significant performance variance exists across store locations.
+
+* Some stores consistently outperform peers, while others structurally underperform.
+
+* AOV differences suggest uneven customer engagement or selling effectiveness.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Launch targeted improvement programs for underperforming stores.
+* Replicate best-practice operational models across weaker locations.
+* Prioritise capital investments in high-growth geographies.
 
 ### Question 4 Insights and recommendations
 
