@@ -4,6 +4,22 @@ This portfolio project uses a relational retail database designed to replicate a
 
 ## Table of Contents
 
+- [Target Users: Executive Leadership, Commercial Management & Business Stakeholders](#target-users-executive-leadership-commercial-management--business-stakeholders)
+- [Understanding the Data](#understanding-the-data)
+- [Data Analysis Framework](#data-analysis-framework)
+- [Analytical Focus & Key Business Questions](#analytical-focus--key-business-questions)
+- [Key Insights & Strategic Action Recommendations](#key-insights--strategic-action-recommendations)
+  - [Question 1 Insights and recommendations](#question-1-insights-and-recommendations)
+  - [Question 2 Insights and recommendations](#question-2-insights-and-recommendations)
+  - [Question 3 Insights and recommendations](#question-3-insights-and-recommendations)
+  - [Question 4 Insights and recommendations](#question-4-insights-and-recommendations)
+  - [Question 5 Insights and recommendations](#question-5-insights-and-recommendations)
+  - [Question 6 Insights and recommendations](#question-6-insights-and-recommendations)
+  - [Question 7 Insights and recommendations](#question-7-insights-and-recommendations)
+  - [Question 8 Insights and recommendations](#question-8-insights-and-recommendations)
+  - [Question 9 Insights and recommendations](#question-9-insights-and-recommendations)
+  - [Question 10 Insights and recommendations](#question-10-insights-and-recommendations)
+
 ## Target Users: Executive Leadership, Commercial Management & Business Stakeholders
 
 This analysis is designed for senior business leaders, commercial decision-makers, and operational managers seeking to enhance retail performance through structured, data-driven insights. It delivers actionable intelligence across product strategy, customer value management, store and workforce productivity, brand performance, promotional effectiveness, and geographic expansion. 
