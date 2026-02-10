@@ -250,9 +250,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue by State
+* Revenue by City
+* Orders by Zip Code
+
 **Key Insights:**
 
+* Clear geographic revenue concentration exists.
+
+* Certain cities and states significantly outperform others.
+
+* Some regions show persistent underperformance.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Prioritise growth investments in high-performing regions.
+* Develop targeted strategies for underpenetrated markets.
+* Rationalise footprint in structurally weak locations.
 
 ### Question 10 Insights and recommendations
 
