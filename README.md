@@ -26,9 +26,9 @@ Topics that are covered in this exploration include:
 
 BASICS: SELECT, FROM, WHERE, IN, LIKE, BETWEEN, GROUP BY, ORDER BY, WildCards, CREATE/DROP TABLE, HAVING, CASE, IF, INSERT, MAX(), MIN(), AVG(), SUM(), COUNT() Statements/clauses , primary and compund keys
 
-INTERMEDIATES: Subqueries, Various window functions including ROW_NUMBER(), RANK(), DENSE_RANK() and aggragate functions, PARTITION BY, Common Table Expressions (CTEs), Views
+INTERMEDIATES: Subqueries, Various window functions including ROW_NUMBER(), RANK(), DENSE_RANK() and aggragate functions, PARTITION BY, Common Table Expressions (CTEs)
 
-ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
+ADVANCED: LEAD and LAG, RECURSION, TRIGGERS and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
 
 All of these topics have been explored in server_config.sql, basics.sql, intermediates.sql and advanced.sql.
 
