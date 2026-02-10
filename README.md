@@ -272,6 +272,20 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Metrics:** 
 
+* Revenue from Discounted Sales
+* Units Sold under Discount
+* Revenue Retention %
+
 **Key Insights:**
 
+* Brands respond very differently to discounting strategies.
+
+* Some brands show strong volume lift with limited margin erosion.
+
+* Others suffer revenue dilution with minimal sales uplift.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Implement brand-specific discount strategies.
+* Prioritise promotional activity on brands with high elasticity.
+* Negotiate supplier co-funded promotions.
