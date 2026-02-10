@@ -4,6 +4,14 @@ This portfolio project uses a relational retail database designed to replicate a
 
 ## Table of Contents
 
+## Target Users:
+
+## Understanding the Data
+
+The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+
+## Data Analyssi Framework
+
 This is an SQL Relational DataBase Management System project aiming to explore the complex relationships between multiple tables.
 
 Topics that are covered in this exploration include:
@@ -14,4 +22,8 @@ INTERMEDIATES: Subqueries, Various window functions including ROW_NUMBER(), RANK
 
 ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
 
-The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+## Analytical Focus & Key Business Questions
+
+## Key Insights & Strategic Action Recommendations
+
+
