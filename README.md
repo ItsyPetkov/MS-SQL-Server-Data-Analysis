@@ -40,6 +40,27 @@ This section presents a set of strategic business questions developed for key st
 
 List of business-related enquiries and their relevance:
 
+1) *Which products and categories generate the highest revenue and sales volume?* => Helps leadership optimise product strategy, inventory investment, and merchandising focus.
+   
+2) *How do sales trends vary by time (month, year)?* => Enables forecasting accuracy, seasonal planning, and proactive capacity management.
+   
+3) *Which stores and regions perform best and which are underperforming?* => Supports targeted operational improvements and smarter geographic investment decisions.
+   
+4) *Who are our most valuable customers and what are their purchasing patterns?* => Guides personalised marketing, loyalty strategy, and customer lifetime value optimisation.
+   
+5) *How effective are staff sales performance and store operations?* => Informs workforce planning, performance management, and productivity improvement initiatives.
+    
+6) *Which brands generate the highest revenue and sales volume?* => Supports supplier strategy, partnership prioritisation, and commercial negotiations.
+    
+7) *What is the optimal discount range to maximise revenue and volume?* => Enables pricing optimisation while protecting margins and promotional ROI.
+    
+8) *How does store performance vary by manager?* => Evaluates leadership effectiveness and informs talent development and succession planning.
+    
+9) *Which geographic regions generate the highest revenue?* => Guides strategic expansion, resource allocation, and regional prioritisation.
+    
+10) *Which brands respond best to discounting?* => Enables brand-specific promotional strategies and margin protection.
+
+   
 ## Key Insights & Strategic Action Recommendations
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
